@@ -8,14 +8,17 @@ const port = 5000;
 app.use(cors())
 
 // chef data
-const chefs = require('./chef.json')
+const chefs = require('./chefs.json')
 
 // routes
-app.get('/', (req, res) => {
-    res.send({ helloworld: 'gh550' })
-})
 app.get('/chefs', (req, res) => {
     res.send(chefs)
+})
+app.get('/chef/:id', (req, res) => {
+    const chef_id = req.params.id;
+    const targetChef = chefs.find(c => c.id == chef_id);
+    res.send(targetChef);
+
 })
 
 
