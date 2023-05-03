@@ -11,6 +11,9 @@ app.use(cors())
 const chefs = require('./chefs.json')
 
 // routes
+app.get('/',(req,res) => {
+    res.send('chef master server is running')
+})
 app.get('/chefs', (req, res) => {
     res.send(chefs)
 })
