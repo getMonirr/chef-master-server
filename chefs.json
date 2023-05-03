@@ -127,25 +127,6 @@
                     "Serve hot."
                 ],
                 "rating": 4.3
-            },
-            {
-                "recipe_name": "Kung Pao Chicken",
-                "ingredients": [
-                    "chicken thighs",
-                    "peanuts",
-                    "dried red chilies",
-                    "Sichuan peppercorns",
-                    "green onions"
-                ],
-                "cooking_method": [
-                    "Cut chicken thighs into small pieces and marinate with soy sauce and cornstarch.",
-                    "Fry peanuts in oil until crispy and set aside.",
-                    "Stir-fry chicken in a wok until cooked.",
-                    "Add dried red chilies and Sichuan peppercorns and stir-fry for another minute.",
-                    "Add peanuts and green onions and stir-fry for another minute.",
-                    "Serve hot."
-                ],
-                "rating": 4.6
             }
         ]
     },
@@ -213,25 +194,6 @@
                     "Serve hot."
                 ],
                 "rating": 4.3
-            },
-            {
-                "recipe_name": "Kung Pao Chicken",
-                "ingredients": [
-                    "chicken thighs",
-                    "peanuts",
-                    "dried red chilies",
-                    "Sichuan peppercorns",
-                    "green onions"
-                ],
-                "cooking_method": [
-                    "Cut chicken thighs into small pieces and marinate with soy sauce and cornstarch.",
-                    "Fry peanuts in oil until crispy and set aside.",
-                    "Stir-fry chicken in a wok until cooked.",
-                    "Add dried red chilies and Sichuan peppercorns and stir-fry for another minute.",
-                    "Add peanuts and green onions and stir-fry for another minute.",
-                    "Serve hot."
-                ],
-                "rating": 4.6
             }
         ]
     },
